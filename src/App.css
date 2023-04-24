@@ -43,10 +43,7 @@
 body {
   background-color: #c4c4c4;
   border: 1px solid black;
-  /* height: 10px; */
   min-width: 9px;
-  /* place-items: unset; */
-  /* display: block; */
   min-height: 10px;
   padding: 0px 16px 12px 16px;
   margin-right: 821px;

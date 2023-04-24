@@ -1,7 +1,5 @@
-import "./App.jsx";
-
-const Title = (props) => {
-  return <h1>{props.name}</h1>;
+const Title = () => {
+  return <h1>Title name{"Lorem Ipsum"}</h1>;
 };
 
 export default Title;
